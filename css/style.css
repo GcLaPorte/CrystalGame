@@ -1,0 +1,70 @@
+ body {
+    background-image: url("https://vignette.wikia.nocookie.net/zelda/images/c/c8/Bazaar.png/revision/latest?cb=20100218002412");
+    background-position: center; 
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+ h1{
+    color: white;
+    font-family: 'Song Myung', serif;
+ 
+}
+
+
+ 
+#win-loose {
+    color: white;
+    background-color: black;
+    height: 95px;
+    width: 100px;
+    
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    float:right;
+  }
+ 
+#instructions{
+    color: white;
+    background-color: black;
+    height: 400px;
+    width: 300px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    clear:left;
+    
+  }
+
+
+
+#yourValue {
+    color: white;
+    background-color: black;
+    height: 120px;
+    width: 180px;
+    margin: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    float:right;
+  } 
+
+  #yourScore {
+
+    color: white;
+    background-color: black;
+    height: 95px;
+    width: 300px;
+    
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    clear: right;
+    float: right;
+
+  }
+
+  #Rupees{
+    height: 200px;
+    width: 50%;
+
+  }
